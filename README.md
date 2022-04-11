@@ -8,7 +8,8 @@ https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/easy
 
 Other than that it's the exact same as to what was released on the last day of the jam (April 4th).
 
-TEAM:
+# TEAM:
+
 # Ángel Vázquez Rodríguez: 3D Artist
     - Twitter: https://twitter.com/Sanja_3DArt
     - Linktree: https://linktr.ee/Sanja_3DArt
